@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-03-25
 author: jimhall
 ---
 First very simple post.
